@@ -1,7 +1,7 @@
 
 # Frege Pulp
 
-A rather verbose and demo website built with Next.js in honor of Frege. 
+A rather verbose demo website built with Next.js in honor of Frege. 
 
 The layout will most likely evolve over the next coming days.
 ## Screenshots:
