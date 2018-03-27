@@ -21,9 +21,9 @@ export default class extends React.Component {
 									
 									<p>
 									This was his basic intellectual project and it was articulated through his 
-									philosophical commitment to free Kant's conception of a priori knowledge from 
+									philosophical commitment to free Kants conception of a priori knowledge from 
 									every trace of the pure intuition that had been conceived as its ground.
-									This articulation was itself achieved through a subtle shift in focus: in Kants conception, analytic a 
+									This articulation was itself achieved through a subtle shift in focus, in Kants conception, analytic a 
 									priori knowledge was rather trivial it was the synthetic a priori which was really a profound matter, 
 									and which required the ground of pure intuition. 
 									</p>
