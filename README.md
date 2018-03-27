@@ -21,3 +21,4 @@ Afterwards, run the dev server and locate to your local host to view:
 ### Todo:
 - Finish Context Page
 - Deploy setup
+- Implement Posts Routing
