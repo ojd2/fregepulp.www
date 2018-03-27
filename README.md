@@ -4,7 +4,7 @@
 A rather verbose demo www built with Next.js in honor of Frege. 
 
 The layout will most likely evolve over the next coming days.
-## Screenshots:
+## Taster:
 <img src="/screens/FregePulp_1.png" alt="Screen 1"/>
 <img src="/screens/FregePulp_2.png" alt="Screen 2"/>
 <img src="/screens/FregePulp_3.png" alt="Screen 3"/>
