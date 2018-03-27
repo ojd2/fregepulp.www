@@ -19,22 +19,21 @@ const Introduction = () => (
 						every trace of the pure intuition that had been conceived as its ground.
 						This articulation was itself achieved through a subtle shift in focus: in Kants conception, analytic a 
 						priori knowledge was rather trivial it was the synthetic a priori which was really a profound matter, 
-						and which required the ground of pure intuition. </p>
+						and which required the ground of pure intuition. 
+						</p>
 		    		</div>
 		    		<div class="find-out">
 		    			<a href="#">More <i class="fa fa-long-arrow-right"/></a>
 		    		</div>
 		    	</div>
 		    	<div grid-col="7" grid-pad="2" class="introduction-image">
-					<img class="scroll-transition-fade below-viewport" src="/static/frege_pulp_sense.png" 
-					 />
+					<img class="scroll-transition-fade below-viewport" src="/static/frege_pulp_sense.png" />
 	    		</div>
 	    	</div>
 
 	    	<div grid-row="" grid-pad="2" grid-gutter="4" grid-responsive="">
 		    	<div grid-col="6" grid-pad="2" class="introduction-text-main">
-			    	<img class="scroll-transition-fade below-viewport responsive" 
-			    	src="/static/frege_pulp_truth_thumb.png" /> 
+			    	<img class="scroll-transition-fade below-viewport responsive" src="/static/frege_pulp_truth_thumb.png" /> 
 			    	<h3>Tarski & the concept of Truth</h3>
 					<div class="find-out">
 		    			<a href="#">More <i class="fa fa-long-arrow-right"/></a>
@@ -42,8 +41,7 @@ const Introduction = () => (
 				</div>
 				
 				<div grid-col="6" grid-pad="2" class="">
-				<img class="scroll-transition-fade below-viewport responsive" 
-			    	src="/static/frege_pulp_proof_thumb.png" /> 
+				<img class="scroll-transition-fade below-viewport responsive" src="/static/frege_pulp_proof_thumb.png" /> 
 					<h3>Heyting & the concept of Proof</h3>
 					<div class="find-out">
 		    			<a href="#">More <i class="fa fa-long-arrow-right"/></a>

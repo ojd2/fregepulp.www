@@ -340,27 +340,27 @@ var Introduction = function Introduction() {
 									lineNumber: 16
 								}
 							},
-							"This was his basic intellectual project and it was articulated through his philosophical commitment to free Kant's conception of a priori knowledge from every trace of the pure intuition that had been conceived as its ground. This articulation was itself achieved through a subtle shift in focus: in Kants conception, analytic a priori knowledge was rather trivial it was the synthetic a priori which was really a profound matter, and which required the ground of pure intuition. "
+							"This was his basic intellectual project and it was articulated through his philosophical commitment to free Kant's conception of a priori knowledge from every trace of the pure intuition that had been conceived as its ground. This articulation was itself achieved through a subtle shift in focus: in Kants conception, analytic a priori knowledge was rather trivial it was the synthetic a priori which was really a profound matter, and which required the ground of pure intuition."
 						)
 					),
 					__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
 						"div",
 						{ "class": "find-out", __source: {
 								fileName: _jsxFileName,
-								lineNumber: 24
+								lineNumber: 25
 							}
 						},
 						__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
 							"a",
 							{ href: "#", __source: {
 									fileName: _jsxFileName,
-									lineNumber: 25
+									lineNumber: 26
 								}
 							},
 							"More ",
 							__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", { "class": "fa fa-long-arrow-right", __source: {
 									fileName: _jsxFileName,
-									lineNumber: 25
+									lineNumber: 26
 								}
 							})
 						)
@@ -370,13 +370,12 @@ var Introduction = function Introduction() {
 					"div",
 					{ "grid-col": "7", "grid-pad": "2", "class": "introduction-image", __source: {
 							fileName: _jsxFileName,
-							lineNumber: 28
+							lineNumber: 29
 						}
 					},
-					__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img", { "class": "scroll-transition-fade below-viewport", src: "/static/frege_pulp_sense.png",
-						__source: {
+					__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img", { "class": "scroll-transition-fade below-viewport", src: "/static/frege_pulp_sense.png", __source: {
 							fileName: _jsxFileName,
-							lineNumber: 29
+							lineNumber: 30
 						}
 					})
 				)
@@ -395,8 +394,7 @@ var Introduction = function Introduction() {
 							lineNumber: 35
 						}
 					},
-					__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img", { "class": "scroll-transition-fade below-viewport responsive",
-						src: "/static/frege_pulp_truth_thumb.png", __source: {
+					__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img", { "class": "scroll-transition-fade below-viewport responsive", src: "/static/frege_pulp_truth_thumb.png", __source: {
 							fileName: _jsxFileName,
 							lineNumber: 36
 						}
@@ -406,7 +404,7 @@ var Introduction = function Introduction() {
 						{
 							__source: {
 								fileName: _jsxFileName,
-								lineNumber: 38
+								lineNumber: 37
 							}
 						},
 						"Tarski & the concept of Truth"
@@ -415,20 +413,20 @@ var Introduction = function Introduction() {
 						"div",
 						{ "class": "find-out", __source: {
 								fileName: _jsxFileName,
-								lineNumber: 39
+								lineNumber: 38
 							}
 						},
 						__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
 							"a",
 							{ href: "#", __source: {
 									fileName: _jsxFileName,
-									lineNumber: 40
+									lineNumber: 39
 								}
 							},
 							"More ",
 							__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", { "class": "fa fa-long-arrow-right", __source: {
 									fileName: _jsxFileName,
-									lineNumber: 40
+									lineNumber: 39
 								}
 							})
 						)
@@ -438,13 +436,12 @@ var Introduction = function Introduction() {
 					"div",
 					{ "grid-col": "6", "grid-pad": "2", "class": "", __source: {
 							fileName: _jsxFileName,
-							lineNumber: 44
+							lineNumber: 43
 						}
 					},
-					__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img", { "class": "scroll-transition-fade below-viewport responsive",
-						src: "/static/frege_pulp_proof_thumb.png", __source: {
+					__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img", { "class": "scroll-transition-fade below-viewport responsive", src: "/static/frege_pulp_proof_thumb.png", __source: {
 							fileName: _jsxFileName,
-							lineNumber: 45
+							lineNumber: 44
 						}
 					}),
 					__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
@@ -452,7 +449,7 @@ var Introduction = function Introduction() {
 						{
 							__source: {
 								fileName: _jsxFileName,
-								lineNumber: 47
+								lineNumber: 45
 							}
 						},
 						"Heyting & the concept of Proof"
@@ -461,20 +458,20 @@ var Introduction = function Introduction() {
 						"div",
 						{ "class": "find-out", __source: {
 								fileName: _jsxFileName,
-								lineNumber: 48
+								lineNumber: 46
 							}
 						},
 						__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
 							"a",
 							{ href: "#", __source: {
 									fileName: _jsxFileName,
-									lineNumber: 49
+									lineNumber: 47
 								}
 							},
 							"More ",
 							__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", { "class": "fa fa-long-arrow-right", __source: {
 									fileName: _jsxFileName,
-									lineNumber: 49
+									lineNumber: 47
 								}
 							})
 						)
