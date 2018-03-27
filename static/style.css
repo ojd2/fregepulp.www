@@ -1,0 +1,160 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: none;
+}
+h1, a {
+    font-family: 'Rubik', sans-serif;
+}
+h2, h3, h4, h5, h6, p {
+    font-family: 'Rubik', sans-serif;
+    font-weight:400;
+}
+h2 {
+    font-size: 1.1rem;
+}
+p {
+    font-size: 1.0rem;
+}
+.nav-container {
+    width: 41.66667%;
+}
+nav {
+    padding: 1rem;
+    margin: 0 auto;
+    height: auto;
+    line-height: 1.4;
+    text-align: right;
+}
+nav a {
+    color: black;
+    display: inline-block;
+    font-size: 1.4rem;
+    text-rendering: optimizeLegibility;
+}
+ul {
+    padding: 55px 10px;
+    margin: 0;
+    display: inline-flex;
+}
+li {
+    list-style: none;
+    margin: 0;
+    display: inline-flex;
+    padding: 0px 10px;
+}
+a {
+    text-decoration: none;
+    color: blue;
+}
+a:hover {
+    opacity: 0.6;
+    color: green;
+}
+.container {
+    position: relative;
+    overflow: visible;
+    width: 100%;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+.row {
+    align-items: flex-start;
+    display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    flex-wrap: wrap;
+}
+.header {
+    width: 100%;
+    margin: 0 auto;
+    float: left;
+    padding: 0 auto;
+}
+.logo {
+    margin: 0;
+    width: 58.33333%;
+    box-sizing: border-box;
+    padding: 1.8rem;
+    display: inline-block;
+    float: left;
+}
+.page-introduction {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+.introduction-image img {
+    float: none;
+    display: block;
+    /*for the img inside your div */
+    margin-left: auto;
+    margin-right: auto;
+}
+.introduction-text {
+    font-family: "Arial";
+    color: rgba(0, 0, 0, 0.75);
+    line-height: 1.4;
+}
+.introduction-text-head {
+    padding: 20px 0;
+    marign: 0;
+}
+.introudction-text-main {
+    font-family: "Arial";
+    color: rgba(0, 0, 0, 0.75);
+    line-height: 1.3rem;
+}
+.find-out a {
+    padding: 5px 0;
+    margin: 0;
+    border-bottom: 0.075em solid rgba(0, 0, 0, 0.75);
+    color: rgba(0, 0, 0, 0.75);
+}
+.about {
+  margin: 0;
+  padding: 0;
+  color:rgba(0, 0, 0, 0.75);
+
+}
+.page-details {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+.page-details .details-img {
+  margin:0 auto;
+  display: block;
+  padding:0px;
+}
+.page-details  .details-p {
+  padding:0px 100px;
+}
+.details-spread  {
+  padding:0 !important;
+  margin:0 !important;
+}
+.footer-row {
+  float: left;
+  border-top: 1px solid rgba(0, 0, 0, 0.75);
+  width: 100%;
+  padding: 20px 0px;
+  font-family: "Arial";
+  color:rgba(0, 0, 0, 0.75);
+}
+
