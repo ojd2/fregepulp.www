@@ -12,7 +12,6 @@ export default class extends React.Component {
 				    		<div grid-col="5" grid-pad="2" class="">
 					    		<div class="introduction-text">
 						    		<h1>Frege & the concept of Sense</h1>
-						    		
 									<h2>
 									It may justifiably be said of Frege that his most radical contribution to philosophy 
 									was the definition of its foundational question to be the theory of meaning (or logic in his terminology) 

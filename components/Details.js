@@ -7,9 +7,9 @@ const Details = () => (
     			</div>
     			<div grid-col="7" grid-pad="2" class="">
     				<h1 style={{textAlign: 'center', fontSize: '3rem'}}>Rigorous logical sense</h1>
-    				<p class="details-p" style={{textAlign: 'center', fontSize:'1.4rem', lineHeight: '2rem', fontFamily: 'Times New Roman'}}>With the preceding discussion, 
-    				we may appreciate the intellectual context of our proposal which is, the generalization of Heyting's 
-    				conception of semantics to functional calculi specifically the A-Calculus. 
+    				<p class="details-p" style={{textAlign: 'center', fontSize:'1.4rem', lineHeight: '2rem', fontFamily: 'Times New Roman'}}>
+    				With the preceding discussion, we may appreciate the intellectual context of our proposal which is, 
+    				the generalization of Heytings conception of semantics to functional calculi specifically the A-Calculus. 
     				The proposal carries a serious import: semantics, and specifically 
 					formal semantics, is salient to any language and only to language; the A-Calculus is a formal 
 					language and has already, a Tarskian (or denotational) semantics formulated principally by 
