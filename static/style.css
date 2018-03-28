@@ -173,6 +173,24 @@ a:hover {
     float: left;
     position: relative;
 }
+.context-container {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 40px 0;
+    float: left;
+    position: relative;
+}
+.context-img-container {
+    width:100%;
+    display:block;
+    float:left;
+    padding:0 auto;
+    margin:0 auto;
+}
+.context-thumb h3 {
+    text-align: center;
+}
 .social {
     width:300px;
     text-align: center;
