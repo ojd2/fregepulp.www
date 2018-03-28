@@ -10,10 +10,8 @@ const Context = () => (
 				<img src="/static/candles.png" class="responsive" alt="context 1" />
 			</div>
 			<div grid-col="4" grid-pad="2" class="context-thumb">
-				<div class="context-img-container">
-					<img style={{padding:'20px 0'}}src="/static/frege_type.jpg" class="responsive" alt="context 1" />
-				</div>
-				<h3>The father of formal semantics</h3>
+				<div class="context-img-container"></div>
+				<h3 style={{textAlign: 'left'}}>The father of formal semantics</h3>
 				<p>German philosopher, logician, and mathematician. He is understood by many to be the father of analytic philosophy, 
 				concentrating on the philosophy of language and mathematics. Though largely ignored during his lifetime, 
 				Giuseppe Peano (1858–1932) and Bertrand Russell (1872–1970) introduced his work to later generations of logicians 
